@@ -17,10 +17,8 @@
 ### Class 1 Convex sets ; Convex functions
 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
-
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;R_{e}=\frac{D}{u}" />
+<img width="150" height="150" src="https://img-blog.csdn.net/20161028230559575"/>
 
 ![](https://cdn.mathpix.com/snip/images/72h616N93DQVi8h9Gud5AgO3VA07LSx_xigOlwV3_EE.original.fullsize.png)
 
-<img src="https://cdn.mathpix.com/snip/images/72h616N93DQVi8h9Gud5AgO3VA07LSx_xigOlwV3_EE.original.fullsize.png" style="width:100px;" />
+<img src="https://cdn.mathpix.com/snip/images/72h616N93DQVi8h9Gud5AgO3VA07LSx_xigOlwV3_EE.original.fullsize.png" width=“3” />
