@@ -22,3 +22,5 @@
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;R_{e}=\frac{D}{u}" />
 
 ![](https://cdn.mathpix.com/snip/images/72h616N93DQVi8h9Gud5AgO3VA07LSx_xigOlwV3_EE.original.fullsize.png)
+
+<img src="https://cdn.mathpix.com/snip/images/72h616N93DQVi8h9Gud5AgO3VA07LSx_xigOlwV3_EE.original.fullsize.png" style="width:100px;" />
