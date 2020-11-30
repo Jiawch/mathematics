@@ -24,3 +24,12 @@
 - 加法交换律
 - 乘法结合律、乘法分配律
 
+### [几个常用公式](https://zhuanlan.zhihu.com/p/102361748)
+
+- ![](https://www.zhihu.com/equation?tex=a%5ETb%3Db%5ETa)
+- ![](https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cpartial+y%5ETx%7D%7B%5Cpartial+x%7D%3Dy)
+- ![](https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cpartial+X%5ETAX%7D%7B%5Cpartial+X%7D%3D%28A%2BA%5ET%29X)
+- ![](https://www.zhihu.com/equation?tex=%7C%7Ca-b%7C%7C_2%5E2%3D%28a-b%29%5ET%28a-b%29+%3D%7C%7Ca%7C%7C_2%5E2-2a%5ETb%2B%7C%7Cb%7C%7C_2%5E2)
+- ![](https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cpartial+%7C%7CAx%2Bb%7C%7C_2%5E2%7D%7B%5Cpartial+x%7D%3D2A%5ET%28Ax%2Bb%29)
+
+
