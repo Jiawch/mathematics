@@ -18,3 +18,11 @@
 
   - ref
     - [坐标下降法(Coordinate descent)](https://blog.csdn.net/u013802188/article/details/40476989)
+
+4. [Active set method](https://zhuanlan.zhihu.com/p/50906541)
+
+5. dual problem
+
+6. subgradient
+
+7。 proximal gradient
