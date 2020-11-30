@@ -14,3 +14,4 @@
   - ref
     - [【凸优化笔记7】-交替方向乘子法（ADMM）](https://zhuanlan.zhihu.com/p/106896627)
     
+3. Coordinate Descent
