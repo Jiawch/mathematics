@@ -17,3 +17,4 @@
 ### Class 1 Convex sets ; Convex functions
 
 
+### [凸优化总结](https://wulc.me/2017/05/20/凸优化总结/)
